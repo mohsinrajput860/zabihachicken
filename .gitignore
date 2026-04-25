@@ -1,0 +1,18 @@
+# PHP Logs
+*.log
+error_log
+
+# Configuration
+/config/config.php
+
+# Uploads
+/uploads/*
+!/uploads/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

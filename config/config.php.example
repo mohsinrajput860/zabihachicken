@@ -1,0 +1,13 @@
+<?php
+// config.php.example
+
+// Database configuration
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'Zabiha-Chicken');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+
+// Site configurations
+define('SITE_NAME', 'Zabiha Chicken');
+$base_url = "http://localhost/zabihachicken/";
+?>
