@@ -31,7 +31,7 @@ Zabiha Chicken is a modern, fully responsive restaurant website built with PHP a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/zabihachicken.git
+   git clone https://github.com/mohsinrajput860/zabihachicken.git
    ```
 
 2. **Database Setup**:
@@ -55,4 +55,4 @@ Zabiha Chicken is a modern, fully responsive restaurant website built with PHP a
 This project is for educational/portfolio purposes.
 
 ---
-Developed by [Your Name/GitHub Profile]
+Developed by [mohsinrajput860](https://github.com/mohsinrajput860)
